@@ -87,6 +87,8 @@ const view = {
 				],
 			},
 			options: {
+				responsive: true,
+				maintainAspectRatio: false,
 				scales: {
 					yAxes: [
 						{
@@ -116,6 +118,8 @@ const view = {
 				],
 			},
 			options: {
+				responsive: true,
+				maintainAspectRatio: false,
 				scales: {
 					yAxes: [
 						{
@@ -145,6 +149,8 @@ const view = {
 				],
 			},
 			options: {
+				responsive: true,
+				maintainAspectRatio: false,
 				scales: {
 					yAxes: [
 						{
@@ -174,6 +180,8 @@ const view = {
 				],
 			},
 			options: {
+				responsive: true,
+				maintainAspectRatio: false,
 				scales: {
 					yAxes: [
 						{
@@ -203,6 +211,8 @@ const view = {
 				],
 			},
 			options: {
+				responsive: true,
+				maintainAspectRatio: false,
 				scales: {
 					yAxes: [
 						{
